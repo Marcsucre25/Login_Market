@@ -2,7 +2,8 @@
 **Integrantes:**
 - Paulina Males
 - Moreira Marcos
-## DESCRIPCION DEL CODIGO DE LOGIN
+## Manual Usuario 
+
 Mostramos el usuario creado en la Base de datos
 ![Esta es una imagen](https://github.com/Marcsucre25/Laboratorio_DI/blob/main/IMG_20220802_121239.jpg)
 Creamos otro usuario en la base de datos
